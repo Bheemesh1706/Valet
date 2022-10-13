@@ -22,3 +22,12 @@
          For representing the medium cars size use "Medium" key word
          For representing the large cars size use "Large" key word
  ```
+
+
+# How to run the file 
+
+```
+   git clone https://github.com/Bheemesh1706/Valet.git
+   cd Valet
+   ruby  valet_system.rb 
+```
