@@ -1,6 +1,6 @@
 class  Valet
 
-        # These are variales arre used to keep track of the car spaces and to keep track of
+        # These are variales are used to keep track of the car spaces and to keep track of
         # which car is located where right at the moment.
         # small => Total amount of car space available for small cars 
         # medium =>  Total amount of car space available for medium cars 
@@ -13,7 +13,7 @@ class  Valet
         # lc => Keeps track of how many Large cars are parked in Large Parking Space
     attr_accessor :small ,:medium ,:large,:sc,:scm,:scl,:mc,:mcl,:lc
 
-        # These hash stores the data of wich car placed at which parking spaces
+        # These hash stores the data of car placed at which parking spaces
         # values_small => Keeps track of all the car in Small Parking Space
         # values_medium => Keeps track of all the car in Medium Parking Space
         # values_large => Keeps track of all the car in Large Parking Space   
